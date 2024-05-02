@@ -51,4 +51,4 @@ Ready to revolutionize your analytics game? Let's connect and explore the possib
 
 For inquiries or further information, please contact
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rathod-62ba802a9)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyanshu-rathod-data-analyst)
