@@ -28,7 +28,7 @@ Excited to share my latest project leveraging the power of Power BI! Dive into t
 
 5. Collaboration and Performance Optimization:
 - Experience the pinnacle of collaboration with Advanced Data Distribution and Collaboration features. Performance Optimization ensures smooth sailing even with vast datasets. 🚀💼
-
+  
 ![App Screenshot](https://github.com/priyanshurathod009/Amazon-Sales-Report/blob/main/image/Tootip.png?raw=true)
 
 
@@ -51,4 +51,4 @@ Ready to revolutionize your analytics game? Let's connect and explore the possib
 
 For inquiries or further information, please contact
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyanshu-rathod-data-analyst)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rathod-62ba802a9)
